@@ -65,8 +65,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
     </div>
     <div class="w3-third w3-container">
       <p ></p>
-	  <img src="Imagenes/nagac.png" alt="Naga Courtyard" class="w3-border w3-padding-large w3-padding-32 w3-center">
-      <img src="Imagenes/Naga.png" alt="Naga" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
+	  <img src="imagenes/nagac.png" alt="Naga Courtyard" class="w3-border w3-padding-large w3-padding-32 w3-center">
+      <img src="imagenes/Naga.png" alt="Naga" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
     </div>
   </div>
 
@@ -81,8 +81,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	  </p><br>Al acabar ya con el <b>Lich</b> te soltara uno se sus <em>"Scepters"</em>, tiene 4: <em>Zombie Scepter, Scepter of Fortification, Scepter of Twilight y el Scepter of Life Draining.</em> Los diferentes usos de estos objetos están en la sección de <b>objetos</b> en la pagina principal.</br>
     </div>
     <div class="w3-third w3-container">
-      <img src="Imagenes/Lich1.png" alt="Lich" class="w3-border w3-padding-large w3-padding-32 w3-center">
-      <img src="Imagenes/Lich_Tower.jpg" alt="Lich tower" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
+      <img src="imagenes/Lich1.png" alt="Lich" class="w3-border w3-padding-large w3-padding-32 w3-center">
+      <img src="imagenes/Lich_Tower.jpg" alt="Lich tower" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
     </div>
   </div>
 
@@ -95,8 +95,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	  </p><br>Tras matarlo, te soltara su hacha y entre 2-5 <em><b>Meef Stroganoff</b></em> y su trofeo que es su cabeza <em>(Pero en los "mini bosses" el circulo de alrededor del trofeo aparece en gris, no en dorado)</em>. Cuando te tomes el <b>Meef Stroganoff</b> te permitira pasar a la zona donde lucharas contra la <b>Hydra</b> que es en medio de todo el pantano.</br>
     </div>
     <div class="w3-third w3-container">
-      <img src="Imagenes/Mino1.png" alt="Minoshroom" class="w3-border w3-padding-large w3-padding-32 w3-center">
-      <img src="Imagenes/minoshrooml.png" alt="Laberinto Minoshroom" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
+      <img src="imagenes/Mino1.png" alt="Minoshroom" class="w3-border w3-padding-large w3-padding-32 w3-center">
+      <img src="imagenes/minoshrooml.png" alt="Laberinto Minoshroom" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
     </div>
   </div>
   
@@ -110,8 +110,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	  </p>
     </div>
     <div class="w3-third w3-container">
-      <img src="Imagenes/hydra1.png" alt="Hydra" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
-      <img src="Imagenes/hydracave.png" alt="Cueva Hydra" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
+      <img src="imagenes/hydra1.png" alt="Hydra" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
+      <img src="imagenes/hydracave.png" alt="Cueva Hydra" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
     </div>
   </div>
   
@@ -130,8 +130,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	  </p>
     </div>
     <div class="w3-third w3-container">
-      <img src="Imagenes/KP.png" alt="KP" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
-      <img src="Imagenes/KPA.png" alt="KPA" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
+      <img src="imagenes/KP.png" alt="KP" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
+      <img src="imagenes/KPA.png" alt="KPA" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
     </div>
   </div>
   
@@ -145,8 +145,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	  </p>
     </div>
     <div class="w3-third w3-container">
-      <img src="Imagenes/ug.png" alt="Ur ghast" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
-      <img src="Imagenes/dt.png" alt="Dark Tower" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
+      <img src="imagenes/ug.png" alt="Ur ghast" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
+      <img src="imagenes/dt.png" alt="Dark Tower" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
     </div>
   </div>
   
@@ -157,8 +157,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 	  </p>
     </div>
     <div class="w3-third w3-container">
-      <img src="Imagenes/ug.png" alt="Alpha Yeti" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
-      <img src="Imagenes/dt.png" alt="JustTheCave" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
+      <img src="imagenes/ug.png" alt="Alpha Yeti" class="w3-border w3-padding-large w3-padding-32 w3-center" width="600">
+      <img src="imagenes/dt.png" alt="JustTheCave" class="w3-border w3-padding-large w3-padding-32 w3-center" width="500">
     </div>
   </div>
 	
